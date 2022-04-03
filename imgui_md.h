@@ -26,8 +26,8 @@
 #ifndef IMGUI_MD_H
 #define IMGUI_MD_H
 
-#include "md4c.h"
-#include "imgui.h"
+#include <md4c/md4c.h>
+#include <imgui_docking/imgui.h>
 #include <string>
 #include <vector>
 
